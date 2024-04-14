@@ -1,0 +1,15 @@
+ {
+          category: "Bread",
+          title: "Breads",
+          desc: "Our freshly baked breads are ready to serve you!",
+        },
+        {
+          category: "Cake",
+          title: "Cakes",
+          desc: "Delicious cakes for your special celebrations!",
+        },
+        {
+          category: "Pastry",
+          title: "Pastries",
+          desc: "Treat yourself with delightful pastries!",
+        },

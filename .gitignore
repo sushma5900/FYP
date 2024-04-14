@@ -1,0 +1,10 @@
+# Frontend
+frontend/build
+frontend/node_modules
+frontend/.env
+
+#Backend
+backend/node_modules
+backend/.env
+
+README.md
